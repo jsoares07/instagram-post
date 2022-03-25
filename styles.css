@@ -1,0 +1,63 @@
+body {
+    background: black;
+    margin-top: 50px;
+    margin-left: 150px;
+    font-family: 'Gothic A1', sans-serif;
+}
+
+.post {
+    width: 480px;
+    height: 650px;
+    font-size: 90%;
+    background: white;
+}
+
+.header {
+    padding: 15px;    
+    display: flex;
+}
+
+.brand {
+    font-size: 30px;
+    align-items: center;
+}
+
+.title {
+    margin-right: 320px;
+    padding-left: 8px;
+}
+
+.settings {
+    font-size: 30px;
+}
+
+.b-post {
+    padding: 14px;
+}
+
+.b-icons {
+    display: flex;
+    font-size: xx-large;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+.l-icons {
+    width: 90%;
+    margin-bottom: 12px;
+}
+.r-icon{
+    width: 10%;
+    padding-left: 150px;
+}
+
+.likes{
+    font-size: 15px;
+    margin-left: 7px;
+    margin-top: 10px;
+}
+
+.comentary{
+    margin-top: 10px;
+    margin-right: 10px;
+}
